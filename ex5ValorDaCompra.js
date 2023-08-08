@@ -8,7 +8,7 @@ if (numeroDeParcelas === 1) {
     const desconto = valorDaCompra * 10 / 100;
     const valorApagar = valorDaCompra - desconto;
 
-    console.log(`Você deve paga ${valorApagar} `);
+    console.log(`Você deve pagar ${valorApagar} reais, à vista tem 10% desconto`);
 }
 else {
 
