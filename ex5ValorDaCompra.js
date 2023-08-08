@@ -12,8 +12,8 @@ if (numeroDeParcelas === 1) {
 }
 else {
 
-    const valorDaParcela = valorDaCompra / numeroDeParcelas;
+    const valorDaParcela = (valorDaCompra / numeroDeParcelas).toFixed(2);
 
-    console.log(`Você deve pagar ${numeroDeParcelas} no valor ${valorDaParcela.toFixed(2)} reais`);
+    console.log(`Você deve pagar ${numeroDeParcelas} no valor ${valorDaParcela} reais`);
 
 }
