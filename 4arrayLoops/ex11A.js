@@ -1,3 +1,4 @@
+//letra a
 const palavra = 'abacate';
 
 let quantidade = 0;
