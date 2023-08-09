@@ -2,7 +2,7 @@ const numero = [1, 21, 7, 3, 5, 98];
 
 let indice = 0;
 
-while (indice < 6) {
+while (indice < numero.length) {
 
     console.log(numero[indice]);
     indice++;
@@ -11,7 +11,7 @@ while (indice < 6) {
 //for
 
 
-for (let i = 0; i < 6; i++) {
+for (let i = 0; i < numero.length; i++) {
 
     console.log(numero[i]);
 }
