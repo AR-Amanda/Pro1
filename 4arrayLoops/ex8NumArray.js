@@ -8,3 +8,10 @@ while (indice < 6) {
     indice++;
 
 }
+//for
+
+
+for (let i = 0; i < 6; i++) {
+
+    console.log(numero[i]);
+}
