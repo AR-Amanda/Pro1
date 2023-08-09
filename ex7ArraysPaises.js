@@ -7,4 +7,7 @@ paises.push('Mali');
 //Remove o último
 paises.pop();
 
+//Adiciona no inicio do array
+paises.unshift('Mali');
+
 console.log(paises);
