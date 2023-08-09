@@ -1,3 +1,4 @@
+//valor da variavel ${}
 let x = 10, y = 2;
 
 let resultado = x + y;
