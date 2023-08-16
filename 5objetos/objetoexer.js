@@ -24,24 +24,24 @@ const cartao = {
     produtos:
         [["carne", "30 reais", "1kg"],
         ["figado", "18 reais", "1kg"],
-        ["bife", "79 reais", "2kg"],
+        ["bife", "79 reais", "2kg"]
 
-        [{
-            Nome: "pão",
-            preco: 2000,
-            quant: 6
-        },
-        {
-            Nome: "café",
-            preco: 8000,
-            quant: 1
-        },
-        {
-            Nome: "arroz",
-            preco: 4800,
-            quant: 9
-        }
-        ]]
+            // [{
+            //     Nome: "pão",
+            //     preco: 2000,
+            //     quant: 6
+            // },
+            // {
+            //     Nome: "café",
+            //     preco: 8000,
+            //     quant: 1
+            //},
+            // {
+            //     Nome: "arroz",
+            //    preco: 4800,
+            //     quant: 9
+            // }]
+        ]
 
 }
 console.log(`${cartao.nomeCliente} de ${cartao.idadeCliente} anos, comprou: `);
