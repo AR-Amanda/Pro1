@@ -1,9 +1,9 @@
 # Projeto Iniciante em JavaScript
 
- ###Fundamentos do JavaScript 
- ###Variáveis
- ###Tipos de Dados
- ###Operadores
- ###Estruturas de Controles
- ###Arrays
- ###Objetos
+ 1. Fundamentos do JavaScript
+ 2. Variáveis
+ 3. Tipos de Dados
+ 4. Operadores
+ 5. Estruturas de Controles
+ 6. Arrays
+ 7. Objetos
