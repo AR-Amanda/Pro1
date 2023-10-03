@@ -1,11 +1,11 @@
 # Projeto Iniciante em JavaScript
 
-+ Fundamentos do JavaScript:
- *Variáveis,
- *Tipos de Dados,
- *Operadores
- *Estruturas de Controle.
+1. Fundamentos do JavaScript:
+ +Variáveis,
+ +Tipos de Dados,
+ +Operadores
+ +Estruturas de Controle.
 
-+ Estruturas de Dados:
-  *Arrays
-  *Objetos.
+2. Estruturas de Dados:
+ +Arrays
+ +Objetos.
