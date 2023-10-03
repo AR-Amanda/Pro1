@@ -1,5 +1,5 @@
 //Variavel imutavel 
-const cidadeNatal = "Juazeiro do Norte";
+const cidadeNatal = "Rio de Janeiro";
 
 //Imprime na tela o valor da variavel
 console.log(cidadeNatal);
