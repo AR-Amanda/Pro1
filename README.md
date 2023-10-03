@@ -4,7 +4,7 @@
  1. Variáveis
     são como caixas onde você pode armazenar informações. 
  2. Tipos de Dados
-    Existem diferentes tipos de dados, como números, strings (textos), booleanos (verdadeiro ou falso), objetos, entre outros
+    existem diferentes tipos de dados, como números, strings (textos), booleanos (verdadeiro ou falso), objetos, entre outros
  3. Operadores
     são símbolos especiais que você pode usar para realizar operações em variáveis e valores.
  4. Estruturas de Controles
